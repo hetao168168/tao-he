@@ -1,0 +1,8 @@
+{
+  "name": "Remix 菁优网智能教学与错题工作台",
+  "description": "专为中小学教师打造的高效错题管理与智能组卷系统，毫秒级快速扫码登录、学生档案、错题本快照及菁优真题题库。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

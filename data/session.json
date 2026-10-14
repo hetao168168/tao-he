@@ -1,0 +1,10 @@
+{
+  "loggedInAt": "2026-10-14T11:42:12.792Z",
+  "ticket": "test_123",
+  "user": {
+    "name": "菁优微信用户（测试老师）",
+    "role": "学科骨干教师",
+    "school": "北京实验中学",
+    "avatar": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=150&auto=format&fit=crop&q=80"
+  }
+}
